@@ -2,6 +2,8 @@
 
 I build AI news infrastructure, Telegram automation, local knowledge workflows, and agentic developer tools.
 
+**Capture knowledge → Govern context → Plan work → Execute through skills/MCP → Verify and audit**
+
 Current open-source focus:
 
 - [OpenCut OpenCode Copilot](https://github.com/sergekostenchuk/opencut-opencode-copilot) - OpenCut fork with OpenCode/Copilot action planning and semantic video editing workflows.
@@ -17,4 +19,3 @@ The current Codex for Open Source application package is built around:
 - a primary OpenCode/Copilot integration in a real open-source video editor;
 - a supporting QGIS/GIS AI tooling ecosystem;
 - reproducible cleanup, validation, release, and documentation workflows.
-
